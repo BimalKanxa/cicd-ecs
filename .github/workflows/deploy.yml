@@ -7,7 +7,7 @@ on:
 env:
   AWS_REGION: ${{ secrets.AWS_REGION }}
   ECR_REPOSITORY: springbootecsdemo
-  ECR_REGISTRY: 868616805890.dkr.ecr.us-east-1.amazonaws.com/springbootecsdemo
+  ECR_REGISTRY: 868616805890.dkr.ecr.us-east-1.amazonaws.com
 
 permissions:
   contents: read
