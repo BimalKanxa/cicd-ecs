@@ -23,6 +23,7 @@ public class AwsDevopsCrudLearnApplication implements CommandLineRunner {
     public void run(String... args) throws Exception {
         System.out.println("my variable is " + myVariable);
         System.out.println("the data is : " + springProfileLearn.getData());
+        System.out.println("system is working");
     }
 
 }
