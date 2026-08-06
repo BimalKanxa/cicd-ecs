@@ -1,0 +1,11 @@
+target/
+pom.xml.tag
+.mvn/
+mvnw
+mvnw.cmd
+.git/
+.gitignore
+.idea/
+*.iml
+Dockerfile
+.dockerignore
